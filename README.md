@@ -5,8 +5,3 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mutoh1)](https://solved.ac/mutoh1/)
 ---
-<a href = "https://github.com/devxb/ReadmePlants">
-
- <img src = "https://readmeplants.com/get?name=Devxb&plant=blossomTree&planet=eclipse&background=black"/>
-
-</a>
