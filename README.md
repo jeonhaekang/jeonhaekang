@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 프론트엔드 개발자를 꿈꾸는 전해강 입니다! 👋
+
+### 📌Stack
+<img src="https://img.shields.io/badge/html5-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **jeonhaekang/jeonhaekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
