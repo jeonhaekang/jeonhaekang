@@ -6,6 +6,5 @@
 <hr/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mutoh1)](https://solved.ac/mutoh1/)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mutoh1})](https://solved.ac/{mutoh1})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={mutoh1})](https://solved.ac/{mutoh1})
 
