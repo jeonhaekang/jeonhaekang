@@ -8,7 +8,7 @@
 <hr/>
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mutoh1"> -->
  Contact
- phone : 010-6332-4118
- e-mail : 1003gorkd@naver.com
+ 📞 phone : 010-6332-4118<br/>
+ 📨 email : 1003gorkd@naver.com
 </div>
 
